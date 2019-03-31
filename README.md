@@ -15,7 +15,7 @@ As part of the analysis, the following jupyter notebook / python packages are us
 
 ## Additional Data
 
-JSON data from Twitter API calls is stored in a .txt file. A .tsv file composed of dog breed classifications based on an image prediction model is included. 
+JSON data from Twitter API calls is stored in a .txt file. A .tsv file composed of dog breed classifications based on an image prediction model is included. Reports specifying wrangling methods and logic, and visualizations attached.
 
 ## Authors
 
