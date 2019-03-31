@@ -1,5 +1,5 @@
 # Twitter-Account-Analysis
-Provide analysis of twitter account (WeRateDogs).
+Provide analysis of twitter account (WeRateDogs). Project File Name: 'Twitter Analysis.ipynb'.
 
 ## Assignment Background
 
